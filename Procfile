@@ -1,0 +1,1 @@
+web: gunicorn brandit.wsgi --log-file-
